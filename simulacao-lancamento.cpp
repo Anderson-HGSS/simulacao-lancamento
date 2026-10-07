@@ -64,5 +64,7 @@ int main(){
     cout << "Metros: " << abs(pico_torricelli - pico_altura) << "\n";
     cout << "Segundos: " << abs(pico_tempo - tempo_pico_torricelli)<< "\n\n";
 
+    system("pause");
+
     return 0;
 }
